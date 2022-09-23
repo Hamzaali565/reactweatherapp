@@ -1,0 +1,54 @@
+.h1{
+    font-size: 50px;
+}
+.mainGlass{
+    display: flex;
+    justify-content: center;
+margin-top: 40px;
+}
+.glass{
+    background: rgba( 80, 227, 194, 0.3 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 1px );
+-webkit-backdrop-filter: blur( 1px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.glass{
+width: 500px;
+height: 400px;
+/* margin-top: 40px; */
+ /* display: flex; */
+/* flex-direction: column; */
+/* align-items: center; */
+/* padding: 20px; */
+}
+.opposite{
+    display: flex;
+    justify-content: space-between;
+}
+.TMM >div{
+    /* margin-right: 30px; */
+margin: 20px;
+}
+.TMM>div>span{
+    font-size: 20px;
+}
+.HP>div{
+margin: 20px;
+}
+.HP>div>span{
+    font-size: 20px;
+    }    
+.glass>div{
+ margin: 20px;   
+}
+.glass> .city{
+    font-size: 40px;
+margin-top: 80px;
+}
+.input{
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+}
